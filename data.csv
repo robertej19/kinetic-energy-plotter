@@ -1,0 +1,4 @@
+Object,Mass (kg),Velocity (m/s)
+Proton,1e-29,300000000.0
+Baseball,0.125,40.0
+Car,1000.0,50.0
